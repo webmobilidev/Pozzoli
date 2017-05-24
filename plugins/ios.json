@@ -7,17 +7,14 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.pozzoli"
         },
-        "phonegap-plugin-push": {
-            "SENDER_ID": "xxxxx",
+        "cordova-plugin-contacts": {
+            "CONTACTS_USAGE_DESCRIPTION": " ",
             "PACKAGE_NAME": "com.designbest.pozzoli"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.pozzoli"
         },
         "cordova-plugin-dialogs": {
@@ -32,11 +29,14 @@
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.designbest.pozzoli"
         },
-        "cordova-plugin-contacts": {
-            "CONTACTS_USAGE_DESCRIPTION": " ",
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.designbest.pozzoli"
         },
         "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.designbest.pozzoli"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
             "PACKAGE_NAME": "com.designbest.pozzoli"
         }
     },

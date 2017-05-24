@@ -71,9 +71,7 @@
             "id": "cordova-plugin-contacts"
         },
         "is_top_level": true,
-        "variables": {
-            "CONTACTS_USAGE_DESCRIPTION": " "
-        }
+        "variables": {}
     },
     "cordova-plugin-compat": {
         "source": {
