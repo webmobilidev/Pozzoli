@@ -7,44 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
-        },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.pozzoli"
+            "PACKAGE_NAME": "com.designbest.pozzolispa"
         }
     }
 }
